@@ -3,7 +3,6 @@
 // Last Updated on: 1/6/2023
 // Note: On Poon Paregentan (50th day before Easter) the tone automatically changes to ԴԿ and continues until the next year (thus making poon paregentan the pivot of this calculator)
 
-//To do: turn pivot into poon paregentan instead of easter (poon paregentan is 50 days before easter)
 #include <stdio.h>
 #include <stdlib.h>
 #include <math.h>
